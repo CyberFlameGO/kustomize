@@ -16,7 +16,7 @@ require (
 	github.com/mailru/easyjson v0.7.0 // indirect
 	github.com/xlab/treeprint v0.0.0-20181112141820-a009c3971eca // indirect
 	golang.org/x/net v0.0.0-20191004110552-13f9640d40b9 // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/text v0.3.8 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200121175148-a6ecf24a6d71 // indirect
 )
