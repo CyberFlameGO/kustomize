@@ -33,6 +33,6 @@ require (
 	golang.org/x/sys v0.0.0-20191002063906-3421d5a6bb1c // indirect
 	golang.org/x/text v0.3.2 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200121175148-a6ecf24a6d71 // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 	sigs.k8s.io/yaml v1.1.0 // indirect
 )
