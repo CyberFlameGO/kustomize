@@ -49,7 +49,7 @@ require (
 	google.golang.org/protobuf v1.25.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 	k8s.io/api v0.20.4 // indirect
 	k8s.io/apimachinery v0.20.4 // indirect
 	k8s.io/client-go v0.20.4 // indirect
