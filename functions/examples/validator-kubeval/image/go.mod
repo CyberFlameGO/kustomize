@@ -29,9 +29,9 @@ require (
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	github.com/xeipuuv/gojsonschema v0.0.0-20180816142147-da425ebb7609 // indirect
 	github.com/xlab/treeprint v0.0.0-20181112141820-a009c3971eca // indirect
-	golang.org/x/net v0.0.0-20191004110552-13f9640d40b9 // indirect
-	golang.org/x/sys v0.0.0-20191002063906-3421d5a6bb1c // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200121175148-a6ecf24a6d71 // indirect
 	sigs.k8s.io/yaml v1.1.0 // indirect
